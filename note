@@ -1,0 +1,3 @@
+Note: If "coore32+.exe" does not work, run "coore32+.vbs" instead, Do NOT mess with the .wav or gdi effect .exe files, don't Rename, delete or move them, if you
+do any of those, then the GDI effects or sounds wont work. And also, make sure you install Windows Media Player, if not, the bytebeats will not play. So make sure
+that Windows Media Player is installed before you run this.
